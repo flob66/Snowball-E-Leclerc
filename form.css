@@ -8,6 +8,10 @@ h1, h2{
     font-family: "Titre", serif; 
 }
 
+h3{
+    color: aliceblue;
+}
+
 h1{
     font-size:4em;
 }
